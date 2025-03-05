@@ -7,7 +7,7 @@ import argparse
 from pyunpack import Archive
 
 # Custom Imports
-from printer import CustomPrinter
+from scripts.printer import CustomPrinter
 
 class Download_LUNA25:
     def __init__(self):
